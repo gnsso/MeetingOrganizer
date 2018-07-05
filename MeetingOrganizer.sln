@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingOrganizer.Server", "MeetingOrganizer.Server\MeetingOrganizer.Server.csproj", "{70DADF3F-292B-43C9-A4FA-FACB4E5B3802}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingOrganizer.Client", "MeetingOrganizer.Client\MeetingOrganizer.Client.csproj", "{95CF0DC2-D519-40CB-A88D-3CC917A747B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{70DADF3F-292B-43C9-A4FA-FACB4E5B3802}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70DADF3F-292B-43C9-A4FA-FACB4E5B3802}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70DADF3F-292B-43C9-A4FA-FACB4E5B3802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CF0DC2-D519-40CB-A88D-3CC917A747B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CF0DC2-D519-40CB-A88D-3CC917A747B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CF0DC2-D519-40CB-A88D-3CC917A747B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CF0DC2-D519-40CB-A88D-3CC917A747B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
