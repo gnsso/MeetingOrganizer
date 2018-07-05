@@ -1,9 +1,13 @@
-# Meeting Organizer Web API
+# Meeting Organizer
+
 Toplantı planlanma ve yönetim uygulaması
 
-# Genel Bakış
-Server: ASP.NET Web API
-Client: ASP.NET MVC
+- Entity Framework 6
+- SQL Server LocalDB
+- Unity DI
+- AutoMapper
+
+# Web API
 
 **GET** Kayıtlı tüm toplantıları görüntüle
 > /api/meetings
