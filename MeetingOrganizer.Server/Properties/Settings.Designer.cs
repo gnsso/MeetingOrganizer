@@ -25,7 +25,7 @@ namespace MeetingOrganizer.Server.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("[Priority: {1}] {0}, {2:u}")]
         public string DebugLogPattern {
             get {
                 return ((string)(this["DebugLogPattern"]));

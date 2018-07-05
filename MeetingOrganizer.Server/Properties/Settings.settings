@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="DebugLogPattern" Type="System.String" Scope="Application">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">[Priority: {1}] {0}, {2:u}</Value>
     </Setting>
   </Settings>
 </SettingsFile>
