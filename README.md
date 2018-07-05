@@ -7,13 +7,13 @@ Toplantı planlanma ve yönetim uygulaması
 - Unity DI
 - AutoMapper
 
-# Web API
+# API Resources
 
-**GET** Kayıtlı tüm toplantıları görüntüle
+**GET** Kayıtlı tüm toplantılar
 > /api/meetings
 
 **GET** Planlanmış bir toplantıyı görüntüle
-> /api/meetings/1
+> /api/meetings/{id}
 
 **POST** Yeni bir toplantı planla
 > /api/meetings/plan
@@ -22,4 +22,4 @@ Toplantı planlanma ve yönetim uygulaması
 > /api/meetings/update
 
 **POST** Planlanan toplantıyı sil
-> /api/meetings/2/delete
+> /api/meetings/{id}/delete
