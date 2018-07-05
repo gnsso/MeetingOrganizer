@@ -7,7 +7,7 @@ Toplantı planlanma ve yönetim uygulaması
 - Unity DI
 - AutoMapper
 
-# API Resources
+# API Endpoints
 
 **GET** Kayıtlı tüm toplantılar
 > /api/meetings
